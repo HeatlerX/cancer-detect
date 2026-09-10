@@ -64,7 +64,6 @@ demo = gr.Interface(
         "benign หรือ malignant\n\n"
         "⚠️ เครื่องมือสาธิตเพื่อการศึกษาเท่านั้น ไม่ใช่เครื่องมือวินิจฉัยทางการแพทย์"
     ),
-    allow_flagging="never",
 )
 
 if __name__ == "__main__":
