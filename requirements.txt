@@ -1,5 +1,8 @@
 gradio==4.44.1
 huggingface_hub==0.25.2
 pydantic==2.9.2
+fastapi==0.115.5
+starlette==0.41.2
+uvicorn==0.32.0
 ultralytics
 pillow
